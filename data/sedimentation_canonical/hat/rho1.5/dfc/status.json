@@ -1,0 +1,24 @@
+{
+  "experiment_type": "sedimentation",
+  "completed": true,
+  "step": 71200,
+  "elapsed_sec": 4425.6,
+  "elapsed_str": "1h 13m 45s",
+  "interval_time": 6.15,
+  "converged": false,
+  "vy_star": 0.925238,
+  "y_star": 15.4864,
+  "vx_star": 0.0001,
+  "particle_x": 0.49981,
+  "particle_y": 0.064195,
+  "config": {
+    "rho_ratio": 1.5,
+    "ibm_method": "DFC",
+    "delta_type": "hat",
+    "NN": 1281,
+    "max_steps": 207846,
+    "check_interval": 100,
+    "gravity": 1.7066666666666667e-05
+  },
+  "updated_at": "2026-03-23T04:16:15"
+}
